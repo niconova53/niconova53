@@ -10,10 +10,9 @@ Habilidades: REACT / TS / JS / HTML / CSS / TAILWIND / MATERIAL UI
 
 ---
 ### Ultimo Proyecto autodidacta donde se puede ver mi manera de codear
-* https://github.com/niconova53/la-peli
+_Repo_ https://github.com/niconova53/la-peli
 
-_Demo_
-* https://la-peli.web.app/
+_Demo_ https://la-peli.web.app/
 
 
 

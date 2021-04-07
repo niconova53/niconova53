@@ -1,4 +1,4 @@
-### Hola 👋, me llamo Nico
+## Hola 👋, me llamo Nico
 ### Soy Front End developer
 Siempre buscando grupos para programar o pair programming.
 

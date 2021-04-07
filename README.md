@@ -8,6 +8,7 @@ Habilidades: REACT / TS / JS / HTML / CSS / TAILWIND / MATERIAL UI
 - 🔭 Estoy trabajando en proyectos como Front End Developer para una empresa de manera freelance 
 - 🌱 Estoy aprendiendo TAILWIND y TYPESCRIPT 
 
+---
 ### Ultimo Proyecto autodidacta donde se puede ver mi manera de codear
 * https://github.com/niconova53/la-peli
 
